@@ -4,7 +4,7 @@
   <ClickToJumpToProblem>Cliquez pour vous rendre sur les lieux du problème</ClickToJumpToProblem>
 
   <NeedSawmill>Besoin d'un atelier de sciage</NeedSawmill>
-  <NeedSawmillDesc>Vous avez besoin d'un atelier de sciage pour tailler les buches en planches de bois plus polyvalentes.\n\nConstruisez un ATELIER DE SCIAGE ou un ATELIER DE SCIAGE ELECTRIQUE.</NeedSawmillDesc>
+  <NeedSawmillDesc>Vous avez besoin d'un atelier de sciage pour tailler les bûches en planches de bois plus polyvalentes.\n\nConstruisez un ATELIER DE SCIAGE ou un ATELIER DE SCIAGE ELECTRIQUE.</NeedSawmillDesc>
 
   <PoorMood>Mauvaise humeur</PoorMood>
   <PoorMoodDesc>Ces colons sont de mauvaise humeur et peuvent avoir une légère crise de nerf à tout moment:\n\n{0}</PoorMoodDesc>  
@@ -23,7 +23,7 @@
   <NeedDefensesDesc>Cela fait maintenant quelque temps que vous vous êtes installés ici et des personnes mal intentionnées pourraient bien vous avoir remarqué. Des raids pourraient prochainement avoir lieu.\n\nVous devriez préparer vos défenses.\n\nConstruisez quelques tourelles.</NeedDefensesDesc>
   
   <NeedDoctor>Médecin nécessaire</NeedDoctor>
-  <NeedDoctorDesc>Ces colons ont besoin de soins médicaux, mais aucun colon sain n'a été assigné à la tâche de Médecin.\n\n{0}\nAssignez la tâche de Médecin à un colon en bonne santé. Si elles ne sont pas soignées, les blessures pourraient ne jamais être guéries correctement et devenir permanentes.</NeedDoctorDesc>
+  <NeedDoctorDesc>Ces colons ont besoin de soins médicaux, mais aucun colon sain n'a été assigné à la tâche de Médecin.\n\n{0}\nAssignez la tâche de Médecin à un colon en bonne santé. Si elles ne sont pas soignées, les blessures pourraient ne jamais être guéries correctement et devenir permanentes ou s'infecter et provoquer la mort du colon.</NeedDoctorDesc>
 
   <NeedMiner>Mineur nécessaire</NeedMiner>  
   <NeedMinerDesc>Vous avez désigné des blocs rocheux à miner, mais aucun colon n'a été affecté à la tâche de Mineur.\n\nAssignez la tâche Mineur à un colon.</NeedMinerDesc>
@@ -92,7 +92,7 @@
   -->
     
   <ColonistsIdle>{0} colons inactifs</ColonistsIdle>  
-  <ColonistsIdleDesc>Ces colons se promènent sans tâche :\n\n{0}\nVous devriez probablement pouvoir leur trouver de quoi les occuper.</ColonistsIdleDesc>
+  <ColonistsIdleDesc>Ces colons se promènent sans tâche, ils n'ont rien à faire :\n\n{0}\nVous devriez probablement pouvoir leur trouver de quoi les occuper.</ColonistsIdleDesc>
 
  <!-- Removed
   <HaltedConstructions>{0} constructions manquent de matériaux</HaltedConstructions>
@@ -109,7 +109,7 @@
   <PatientsAwaitingMedicalOperationDesc>Ces patients attendent une opération médicale :\n\n{0}\nAssurez vous d'avoir tout le matériel médical nécessaire et qu'un médecin soit disponible.</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>Au Feu!</FireInHomeArea>
-  <FireInHomeAreaDesc>Il a un incendie dans votre colonie.</FireInHomeAreaDesc>
+  <FireInHomeAreaDesc>Il a un incendie dans votre colonie. Les incendies peuvent détruire le paysage, les constructions et les machines, hâtez-vous de l'éteindre, sauf si la pluie peut s'en occuper.</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Maladie grave</PawnsWithLifeThreateningDisease>
   <PawnsWithLifeThreateningDiseaseDesc>Ces colons sont en danger de mort à cause d'une maladie grave :\n\n{0}\nAssurez-vous qu'ils disposent d'autant d'attention que possible de la part des médecins.</PawnsWithLifeThreateningDiseaseDesc>
